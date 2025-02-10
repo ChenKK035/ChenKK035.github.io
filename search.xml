@@ -1,23 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Demo01</title>
-    <url>/2025/02/05/Demo01/</url>
-    <content><![CDATA[<details class="blue" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>Folding 测试： 点击查看更多 </summary>
-              <div class="content">
-              <p>啊啊啊啊啊</p>  <div class="note p-4 mb-4 rounded-small danger">    <p>danger 提示块标签</p>  </div>  <div class="note p-4 mb-4 rounded-small tip">    <p>tip 提示块标签</p>  </div>
-              </div>
-            </details>
-]]></content>
-      <categories>
-        <category>Hexo</category>
-      </categories>
-      <tags>
-        <tag>Hexo</tag>
-        <tag>Demo</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Hello World</title>
     <url>/2025/02/05/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link" href="https://hexo.io/">Hexo<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>! This is your very first post. Check <a class="link" href="https://hexo.io/docs/">documentation<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link" href="https://hexo.io/docs/troubleshooting.html">troubleshooting<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a> or you can ask me on <a class="link" href="https://github.com/hexojs/hexo/issues">GitHub<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a>.</p>
@@ -34,5 +17,22 @@
 
 <p>More info: <a class="link" href="https://hexo.io/docs/one-command-deployment.html">Deployment<i class="fa-solid fa-arrow-up-right ml-[0.2em] font-light align-text-top text-[0.7em] link-icon"></i></a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Demo01</title>
+    <url>/2025/02/05/Demo01/</url>
+    <content><![CDATA[<details class="blue" data-header-exclude=""><summary><i class="fa-solid fa-chevron-right"></i>Folding 测试： 点击查看更多 </summary>
+              <div class="content">
+              <p>啊啊啊啊啊</p>  <div class="note p-4 mb-4 rounded-small danger">    <p>danger 提示块标签</p>  </div>  <div class="note p-4 mb-4 rounded-small tip">    <p>tip 提示块标签</p>  </div>
+              </div>
+            </details>
+]]></content>
+      <categories>
+        <category>Hexo</category>
+      </categories>
+      <tags>
+        <tag>Hexo</tag>
+        <tag>Demo</tag>
+      </tags>
   </entry>
 </search>
